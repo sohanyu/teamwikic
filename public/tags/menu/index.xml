@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>menu on Backend Team Wiki</title>
-    <link>http://example.org/tags/menu/</link>
-    <description>Recent content in menu on Backend Team Wiki</description>
+    <title>menu on Cool Team Wiki</title>
+    <link>http://wiki.ninini.net/tags/menu/</link>
+    <description>Recent content in menu on Cool Team Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Thu, 06 Aug 2020 12:09:08 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/menu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://wiki.ninini.net/tags/menu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>可以</title>
-      <link>http://example.org/blog/1%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+      <link>http://wiki.ninini.net/blog/1%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://example.org/blog/1%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
+      <guid>http://wiki.ninini.net/blog/1%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
       <description>正文内容 正文内容 正文内容 正文内容</description>
     </item>
     
