@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+title = "Cool Team Wiki"
+theme = "ace-documentation-master"
+
+
+[menu]
+
+    [[menu.shortcuts]]
+    name = "<i class='fab fa-zhihu'></i>"
+    url = ""
+    weight = 10
+
+    [[menu.shortcuts]]
+    name = "<i class='fab fa-github'></i>"
+    url = ""
+    weight = 9

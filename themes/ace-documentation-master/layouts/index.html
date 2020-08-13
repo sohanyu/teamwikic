@@ -1,0 +1,19 @@
+{{ define "main" }}
+	{{if .Site.Home.Content }}
+
+	<h1>{{ .Title }}</h1>
+
+	{{.Site.Home.Content}}
+	{{else}}
+			<h1>酷得实验室维基百科</h1>
+			<p>
+			  酷得实验室始建于2020年8月，是一个年轻基情的技术团队，我们面向全栈技术体系，致力于沉淀与分享。
+			</p>
+			<ul>
+			  <li><b>1. </b> 加入方式：xxxxxx</li>
+			  <li><b>2. </b> 问题反馈：xxxxxx</li>
+			</ul>
+		<p><!-- <i class="fa fa-heart fa-4x"></i> --></p>
+	{{ end }}
+
+{{ end }}

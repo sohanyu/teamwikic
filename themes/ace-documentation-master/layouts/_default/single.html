@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+<hr />
+
+{{ .Content }}
+
+    {{ if .IsTranslated }}
+        <h4>{{ i18n "translations" }}</h4>
+        <ul>
+            {{ range .Translations }}
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+                </li>
+            {{ end }}
+          </ul>
+    {{ end }}
+
+                        <div class="row">
+                        {{- if and (ne .Site.Params.disableReadmoreNav true) (ne .Params.disableReadmoreNav true) -}}
+                        <div class="position-relative mx-auto col-lg-9" style="flex: 0 0 100%;max-width: 100%">
+                          {{ partial "next-prev-page.html" . }}
+                        </div>
+                        {{- end -}}
+                    </div> <!-- /end of row -->
+
+{{ end }}
