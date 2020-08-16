@@ -5,7 +5,7 @@ other = "Home"
 other = "Posts"
 
 [postslist]
-other = "Wiki posts"
+other = "The latest posts"
 
 [categories]
 other = "Categories"
