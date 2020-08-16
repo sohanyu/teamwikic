@@ -5,7 +5,7 @@ other = "Accueil"
 other = "Articles"
 
 [postslist]
-other = "Articles de blog"
+other = "Articles de wiki"
 
 [categories]
 other = "Catégories"
