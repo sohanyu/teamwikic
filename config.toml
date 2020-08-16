@@ -1,7 +1,7 @@
 baseURL = "http://wiki.ninini.net/"
 languageCode = "zh-cn"
 title = "Wow! Cool Team Wiki"
-theme = "ace-documentation-master"
+theme = "hugo.386-master"
 
 
 [menu]
