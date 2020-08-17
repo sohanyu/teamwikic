@@ -1,6 +1,6 @@
-baseURL = "http://wiki.ninini.net/"
+baseURL = "http://wiki.jjsys.net/"
 languageCode = "zh-cn"
-title = "Wow! Cool Team Wiki"
+title = "Wow! 加减实验室 Wiki So Cool!"
 theme = "hugo.386-master"
 
 
