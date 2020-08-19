@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Wow! 加减实验室 Wiki So Cool!</title>
-    <link>http://wiki.jjsys.net/categories/</link>
+    <link>http://wiki.ninini.net/categories/</link>
     <description>Recent content in Categories on Wow! 加减实验室 Wiki So Cool!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 06 Aug 2020 12:09:08 -0400</lastBuildDate>
     
-	<atom:link href="http://wiki.jjsys.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://wiki.ninini.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://wiki.jjsys.net/categories/development/</link>
+      <link>http://wiki.ninini.net/categories/development/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://wiki.jjsys.net/categories/development/</guid>
+      <guid>http://wiki.ninini.net/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>introduce</title>
-      <link>http://wiki.jjsys.net/categories/introduce/</link>
+      <link>http://wiki.ninini.net/categories/introduce/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://wiki.jjsys.net/categories/introduce/</guid>
+      <guid>http://wiki.ninini.net/categories/introduce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VIM</title>
-      <link>http://wiki.jjsys.net/categories/vim/</link>
+      <link>http://wiki.ninini.net/categories/vim/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://wiki.jjsys.net/categories/vim/</guid>
+      <guid>http://wiki.ninini.net/categories/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>奥术大师</title>
-      <link>http://wiki.jjsys.net/categories/%E5%A5%A5%E6%9C%AF%E5%A4%A7%E5%B8%88/</link>
+      <link>http://wiki.ninini.net/categories/%E5%A5%A5%E6%9C%AF%E5%A4%A7%E5%B8%88/</link>
       <pubDate>Thu, 06 Aug 2020 12:09:08 -0400</pubDate>
       
-      <guid>http://wiki.jjsys.net/categories/%E5%A5%A5%E6%9C%AF%E5%A4%A7%E5%B8%88/</guid>
+      <guid>http://wiki.ninini.net/categories/%E5%A5%A5%E6%9C%AF%E5%A4%A7%E5%B8%88/</guid>
       <description></description>
     </item>
     
