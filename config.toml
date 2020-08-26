@@ -1,7 +1,7 @@
 #baseURL = "http://wikic.jjsys.net/"
 baseURL = "http://wikic.ninini.net/"
 languageCode = "zh-cn"
-title = "Wow! 加减实验室 Wiki So Cool!"
+title = "Wiki!"
 theme = "hugo.386-master"
 
 
